@@ -1,4 +1,4 @@
-# CS-499
+# CS-499 Computer Science Capstone
 💻 **Project Collection by Alexandria Marbury**
 ChadaTech Retrospective | The Scene | Raspberry Pi LED Display
 🧩 Overview
